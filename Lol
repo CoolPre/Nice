@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+Title = "Made By:";
+Text = "UlyssesnezGaming";
+Icon = nil;
+Duration = "10";
+})
